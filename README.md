@@ -1,1 +1,1 @@
-# web-dev-myApp
+Скріни додатку знаходяться в папці static/Looks
